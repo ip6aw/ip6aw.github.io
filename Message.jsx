@@ -43,6 +43,7 @@ const Message = React.createClass({
         var r23 = Math.floor(Math.random()*2);//x
         var r24 = Math.floor(Math.random()*3);//y
         var r25 = Math.floor(Math.random()*6);//z
+      
         //var r = 1;
         if (arrayOfMessage[i] == "a") {
           switch(r) {
